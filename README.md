@@ -207,4 +207,4 @@ WinHTTrack is available as a complete free version with all features and updates
 Ready to download and experience the power of WinHTTrack? Get started today!
 
 ---
-**Last updated:** 2026-11-02 15:31:44 UTC
+**Last updated:** 2026-11-02 23:24:37 UTC
